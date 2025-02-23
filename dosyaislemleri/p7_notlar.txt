@@ -1,0 +1,7 @@
+Ad-Soyad             Vize  Final  Ortalama
+------------------------------------------
+mert ege sungur         93    75   82,20
+müberra solak           19    78   54,40
+fatma dicle             93    55   70,20
+turker dagci            86   100   94,40
+halim atmaca            66    88   79,20

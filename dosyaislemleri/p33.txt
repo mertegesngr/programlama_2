@@ -1,0 +1,7 @@
+Ad-Soyad             Vize  Final       Ortalama         Sonuç
+------------------------------------------------------------
+mert sungur 			93 		75 	82.199997   BB
+müberra solak 			19 		78 	54.400002   DD
+fatma dicle 			93 		55 	70.199997   BB
+turker dagci 			86 		100 94.400002   AA
+halim atmaca 			66 		88 	79.199997   BB
