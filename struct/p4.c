@@ -1,5 +1,5 @@
 ﻿#include <stdio.h>
-#include <string.h>  // String manipülasyonu için gerekli
+#include <string.h>  
 
 int g_yil = 2025;
 int g_gun = 20;
@@ -39,7 +39,7 @@ int main() {
             getchar();  // Bu satır, fgets ile ad girmeden önce önceki inputlardan kalan '\n' karakterini temizler
         fgets(ps[i].ad, sizeof(ps[i].ad), stdin);
         getchar(); 
-        // ps[i].ad[strcspn(ps[i].ad, "\n")] = 0; // \n'yi temizliyoruz
+        // ps[i].ad[strcspn(ps[i].ad, "\n")] = '\0'; // \n'yi temizliyoruz
 
         printf("maaş: ");
         scanf("%d", &ps[i].maas);

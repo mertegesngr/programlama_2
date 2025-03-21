@@ -41,10 +41,10 @@ void yashesapla(struct p5 i) {
 int main() {
     struct p5 b;
 
-    printf("Doğum tarihinizi giriniz: (GG AA YYYY): ");
-    scanf("%d %d %d", &b.gun, &b.ay, &b.yil);
+    printf("Doğum tarihinizi giriniz: (G/AA/YYYY): ");
+    scanf("%d/%d/%d", &b.gun, &b.ay, &b.yil);
 
-    // Güncel tarihi al
+    // Güncel tarihi al26/
     g_zaman();
 
     printf("Güncel tarih: %d/%d/%d\n", g_gun, g_ay, g_yil);
